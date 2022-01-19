@@ -1,1 +1,5 @@
-print('oi')
+
+cidade = rio de janeiro
+print(cidade)
+
+
