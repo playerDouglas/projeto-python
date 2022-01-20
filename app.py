@@ -1,7 +1,4 @@
-logradouro = "Avenida Monte Alegre Rio Claro"
-numero = 27
-bairro = "jardins"
-endereco = logradouro +  str(numero) + "," + bairro
-print(endereco)
-
-
+sudeste = ["rj", "sp","mg"]
+sul = ["rs", "sc", "pr"]
+estados = sul + sudeste
+print(sudeste[1])
