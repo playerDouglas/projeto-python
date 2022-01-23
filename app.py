@@ -1,4 +1,10 @@
-sudeste = ["rj", "sp","mg"]
-sul = ["rs", "sc", "pr"]
-estados = sul + sudeste
-print(sudeste[1])
+import numpy as np
+a = np.pi
+print(a)
+
+import random
+import math
+
+a = random.random()
+b = math.sqrt(25)
+print()
