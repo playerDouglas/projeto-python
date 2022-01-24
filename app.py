@@ -1,10 +1,7 @@
 import numpy as np
-a = np.pi
-print(a)
 
-import random
-import math
+vetor = np.array([2,4,6,8,10,12,14,16,18,20,22,24])
+print(vetor.shape)
 
-a = random.random()
-b = math.sqrt(25)
-print()
+matriz = np.array([[2,4,6], [8, 10, 12], [14, 16, 18], [20, 22, 24]])
+print(matriz.shape)
